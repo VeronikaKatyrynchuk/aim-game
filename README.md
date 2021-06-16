@@ -1,0 +1,2 @@
+# aim-game
+Pure JavaScript
